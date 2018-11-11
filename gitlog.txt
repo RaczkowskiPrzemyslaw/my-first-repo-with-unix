@@ -1,0 +1,41 @@
+commit 1f4bd9d13b57e859ce4c286ec73ae2b0cec1b037
+Author: RaczkowskiPrzemyslaw <przemyslaw@raczkowski.cba.pl>
+Date:   Sun Nov 11 14:00:00 2018 +0100
+
+    ignore files with png format
+
+commit c4daaa3379e6c9f45450039ca2a0b5226783bae3
+Author: RaczkowskiPrzemyslaw <przemyslaw@raczkowski.cba.pl>
+Date:   Sun Nov 11 13:54:49 2018 +0100
+
+    ignore files with bmp format
+
+commit 09a84f2b62d94bd4d5257187f0ef7c5eced49398
+Author: RaczkowskiPrzemyslaw <przemyslaw@raczkowski.cba.pl>
+Date:   Sun Nov 11 13:47:36 2018 +0100
+
+    added gitignore
+
+commit f91f9785b12f07ed6e932deb7ccb0ea140fa8cfd
+Author: RaczkowskiPrzemyslaw <przemyslaw@raczkowski.cba.pl>
+Date:   Sun Nov 11 13:41:24 2018 +0100
+
+    dodanie tekstu do pliku git.txt
+
+commit d51570650b0af2848cc8c61ba68d51c38f7c985a
+Author: RaczkowskiPrzemyslaw <przemyslaw@raczkowski.cba.pl>
+Date:   Wed Nov 7 00:08:55 2018 +0100
+
+    dodanie dwóch plików
+
+commit e2ec28ac170ce0163172755dabcfd792931168db
+Author: RaczkowskiPrzemyslaw <przemyslaw@raczkowski.cba.pl>
+Date:   Tue Nov 6 23:57:13 2018 +0100
+
+    zmiana tekstu w git.txt
+
+commit 98a972c595171f84206c81979fd3e7b782feb8bb
+Author: RaczkowskiPrzemyslaw <przemyslaw@raczkowski.cba.pl>
+Date:   Tue Nov 6 23:54:55 2018 +0100
+
+    dodanie pliku git.txt
