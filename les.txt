@@ -1,1 +1,2 @@
 nowy txt in branch nowy
+zmiana w drugiej linii z poziomu mastera
